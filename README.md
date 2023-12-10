@@ -31,13 +31,6 @@ The project is divided into several parts:
 ```
     pip install -r requirements.txt
 ```
-3. Open the Jupyter notebook:
-```
-jupyter notebook Project\REA_NY.ipynb
-```
+3. Open the Jupyter notebook.
+
 4. Run the cells in the notebook to load and clean the data, store it in the database, execute the SQL queries, and create the visualizations.
-
-### Note
-
-This project provides a basic framework on which you can analyze your city
-You can get earlier data by modifying the DATA_DOWNLOAD_START_YEAR
